@@ -10,9 +10,8 @@ working on explainable machine learning, interpretable machine learning,
 and machine learning for healthcare, advised by 
 Professor [Rajesh Ranganath](https://cims.nyu.edu/~rajeshr/) and
 Professor [Oded Regev](https://cims.nyu.edu/~regev/). 
-I'm grateful to be a [DeepMind Scholar](https://deepmind.google/about/education/). 
 
-I graduated from Yale University with a combined MS in Computer Science and a BS in
+I graduated from Yale University with a MS in Computer Science and a BS in
 Computer Science and Applied Mathematics. As an undergraduate student, I had the pleasure to work 
 with Professor [Smita Krishnaswamy](https://krishnaswamylab.org/) and 
 Professor [David van Dijk](https://www.vandijklab.org/) on projects investigating the use of
@@ -38,6 +37,6 @@ _Preprint. Oct 2022._ Work by Syed Asad Rizvi\*, __Nhi Nguyen__, Haoran Lyu, Ben
 
 ## Honors & Awards
 
-* DeepMind Fellow, 2023.
-* Russell Henry Chittenden Prize, 2023.
-* Phi Beta Kappa, 2022.
+* [DeepMind Scholarship](https://deepmind.com/education), 2023.
+* [Russell Henry Chittenden Prize](https://news.yale.edu/2023/05/21/eleven-graduating-seniors-honored-top-yale-college-prizes), 2023.
+* [Phi Beta Kappa](https://pbk.yalecollege.yale.edu/junior-inductees#2023-1st), 2022.
