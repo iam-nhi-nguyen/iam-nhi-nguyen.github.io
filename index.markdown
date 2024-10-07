@@ -6,10 +6,9 @@ layout: default
 ## About Me
 
 Hi! I'm a first year PhD student in Computer Science at NYU Courant Institute of Mathematical Sciences, 
-working on explainable machine learning, interpretable machine learning,
+working on explainable machine learning
 and machine learning for healthcare, advised by 
-Professor [Rajesh Ranganath](https://cims.nyu.edu/~rajeshr/) and
-Professor [Oded Regev](https://cims.nyu.edu/~regev/). 
+Professor [Rajesh Ranganath](https://cims.nyu.edu/~rajeshr/). 
 
 I graduated from Yale University with a MS in Computer Science and a BS in
 Computer Science and Applied Mathematics. As an undergraduate student, I had the pleasure to work 
@@ -18,9 +17,9 @@ Professor [David van Dijk](https://www.vandijklab.org/) on projects investigatin
 graph neural networks on analyzing sequencing data.
 
 
-<!-- ## News -->
-
 ## Publications
+
+* [Explanations that reveal all through the definition of encoding](). _Conference on Neural Information Processing Systems (NeurIPS), 2024._ Work by Aahlad Puli\*, __Nhi Nguyen__\*, Rajesh Ranaganth
 
 * [A Flow Artist for High-Dimensional Cellular Data](https://ieeexplore.ieee.org/document/10285942).
 _International Workshop on Machine Learning for Signal Processing (MLSP), 2023._ Work by 
