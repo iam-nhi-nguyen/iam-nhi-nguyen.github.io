@@ -5,28 +5,37 @@ layout: default
 
 ## About Me
 
-Hi! I'm a first year PhD student in Computer Science at NYU Courant Institute of Mathematical Sciences, 
-working on explainable machine learning
-and machine learning for healthcare, advised by 
-Professor [Rajesh Ranganath](https://cims.nyu.edu/~rajeshr/). 
+Hi! I'm a first year PhD student in Computer Science at NYU Courant Institute of 
+Mathematical Sciences, working on explainable machine learning and machine learning 
+for healthcare, advised by Professor [Rajesh Ranganath](https://cims.nyu.edu/~rajeshr/). 
 
-I graduated from Yale University with a MS in Computer Science and a BS in
-Computer Science and Applied Mathematics. As an undergraduate student, I had the pleasure to work 
-with Professor [Smita Krishnaswamy](https://krishnaswamylab.org/) and 
-Professor [David van Dijk](https://www.vandijklab.org/) on projects investigating the use of
+I graduated from Yale University with a MS in Computer Science and a BS in Computer 
+Science and Applied Mathematics. As an undergraduate student, I had the pleasure to 
+work with Professor [Smita Krishnaswamy](https://krishnaswamylab.org/) and Professor 
+[David van Dijk](https://www.vandijklab.org/) on projects investigating the use of
 graph neural networks on analyzing sequencing data.
 
 
 ## Publications
 
-* [Explanations that reveal all through the definition of encoding](). _Conference on Neural Information Processing Systems (NeurIPS), 2024._ Work by Aahlad Puli\*, __Nhi Nguyen__\*, Rajesh Ranaganth
+* [Explanations that reveal all through the definition of encoding](https://arxiv.org/abs/2411.02664). 
+_Conference on Neural Information Processing Systems (NeurIPS), 2024._ Work by Aahlad 
+Puli\*, __Nhi Nguyen__\*, Rajesh Ranaganth
 
+<!-- 
 * [A Flow Artist for High-Dimensional Cellular Data](https://ieeexplore.ieee.org/document/10285942).
-_International Workshop on Machine Learning for Signal Processing (MLSP), 2023._ Work by 
-Kincaid MacDonald\*, Dhananjay Bhaskar\*,Guy Thampakkul, __Nhi Nguyen__, Joia Zhang, Michael Perlmutter, Ian Adelstein, Smita Krishnaswamy
+_International Workshop on Machine Learning for Signal Processing (MLSP), 2023._ Work 
+by Kincaid MacDonald\*, Dhananjay Bhaskar\*,Guy Thampakkul, __Nhi Nguyen__, Joia 
+Zhang, Michael Perlmutter, Ian Adelstein, Smita Krishnaswamy 
+-->
 
-* [AMPNet: Attention as Message Passing for Graph Neural Networks](https://arxiv.org/abs/2210.09475).
-_Preprint. Oct 2022._ Work by Syed Asad Rizvi\*, __Nhi Nguyen__, Haoran Lyu, Benjamin Christensen, Josue Ortega Caro, Antonio H. O. Fonseca, Emanuele Zappala, Maryam Bagherian, Christopher Averill, Chadi G. Abdallah, Rex Ying, Maria Brbic, Rahul Madhav Dhodapkar, David van Dijk
+<!-- * 
+[AMPNet: Attention as Message Passing for Graph Neural Networks](https://arxiv.org/abs/2210.09475).
+_Preprint. Oct 2022._ Work by Syed Asad Rizvi\*, __Nhi Nguyen__, Haoran Lyu, Benjamin 
+Christensen, Josue Ortega Caro, Antonio H. O. Fonseca, Emanuele Zappala, Maryam 
+Bagherian, Christopher Averill, Chadi G. Abdallah, Rex Ying, Maria Brbic, Rahul 
+Madhav Dhodapkar, David van Dijk 
+-->
 
 ## Education
 
