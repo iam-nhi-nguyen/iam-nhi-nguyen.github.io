@@ -5,9 +5,9 @@ layout: default
 
 ## About Me
 
-Hi! I'm a first year PhD student in Computer Science at NYU Courant Institute of 
+Hi! I'm a second year PhD student in Computer Science at NYU Courant Institute of 
 Mathematical Sciences, working on explainable machine learning and machine learning 
-for healthcare, advised by Professor [Rajesh Ranganath](https://cims.nyu.edu/~rajeshr/). 
+for healthcare, advised by Professor [Rajesh Ranganath](https://rajesh-lab.github.io/). 
 
 I graduated from Yale University with a MS in Computer Science and a BS in Computer 
 Science and Applied Mathematics. As an undergraduate student, I had the pleasure to 
