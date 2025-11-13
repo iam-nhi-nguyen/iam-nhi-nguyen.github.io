@@ -5,7 +5,7 @@ layout: default
 
 ## About Me
 
-Hi! I'm a second year PhD student in Computer Science at NYU Courant Institute of 
+Hi! I'm a 3rd year PhD candidate in Computer Science at NYU Courant Institute of 
 Mathematical Sciences, working on explainable machine learning and machine learning 
 for healthcare, advised by Professor [Rajesh Ranganath](https://rajesh-lab.github.io/). 
 
@@ -22,12 +22,16 @@ graph neural networks on analyzing sequencing data.
 _Conference on Neural Information Processing Systems (NeurIPS), 2024._ Work by Aahlad 
 Puli\*, __Nhi Nguyen__\*, Rajesh Ranaganth
 
-<!-- 
 * [A Flow Artist for High-Dimensional Cellular Data](https://ieeexplore.ieee.org/document/10285942).
 _International Workshop on Machine Learning for Signal Processing (MLSP), 2023._ Work 
 by Kincaid MacDonald\*, Dhananjay Bhaskar\*,Guy Thampakkul, __Nhi Nguyen__, Joia 
-Zhang, Michael Perlmutter, Ian Adelstein, Smita Krishnaswamy 
--->
+Zhang, Michael Perlmutter, Ian Adelstein, Smita Krishnaswamy
+
+## Workshops
+
+* [Do LLMs Lie About What They Use? Benchmark for Metacognitive Truthfulness in Large Language Models](https://openreview.net/forum?id=RxJoDToLR1).
+_Actionable Interpretability Workshop at ICML, 2025._ Work 
+by __Nhi Nguyen__\*, Shauli Ravfogel, Rajesh Ranaganth
 
 <!-- * 
 [AMPNet: Attention as Message Passing for Graph Neural Networks](https://arxiv.org/abs/2210.09475).
