@@ -18,7 +18,11 @@ graph neural networks on analyzing sequencing data.
 
 ## Publications
 
-* [Explanations that reveal all through the definition of encoding](https://arxiv.org/abs/2411.02664). 
+* [Sufficiency is Relative: Evaluating LLM Explanations under Model-Induced Input Distributions](https://openreview.net/forum?id=Z5BE8RFKZk).
+_International Conference on Machine Learning (ICML), 2026._ Work by __Nhi Nguyen__\*, 
+Shauli Ravfogel, Rajesh Ranganath
+
+* [Explanations that reveal all through the definition of encoding](https://openreview.net/forum?id=mkw6x0OExg). 
 _Conference on Neural Information Processing Systems (NeurIPS), 2024._ Work by Aahlad 
 Puli\*, __Nhi Nguyen__\*, Rajesh Ranaganth
 
@@ -33,13 +37,17 @@ Zhang, Michael Perlmutter, Ian Adelstein, Smita Krishnaswamy
 _Actionable Interpretability Workshop at ICML, 2025._ Work 
 by __Nhi Nguyen__\*, Shauli Ravfogel, Rajesh Ranaganth
 
-<!-- * 
-[AMPNet: Attention as Message Passing for Graph Neural Networks](https://arxiv.org/abs/2210.09475).
+## Preprints
+
+* [Black Box Causal Inference: Effect Estimation via Meta Prediction](https://arxiv.org/abs/2503.05985).
+_Preprint. Mar 2025._ Work by Lucius EJ Bynum\*, Aahlad Manas Puli\*, Diego Herrero-Quevedo\*,
+__Nhi Nguyen__\*, Carlos Fernandez-Granda, Kyunghyun Cho, Rajesh Ranganath
+
+* [AMPNet: Attention as Message Passing for Graph Neural Networks](https://arxiv.org/abs/2210.09475v1).
 _Preprint. Oct 2022._ Work by Syed Asad Rizvi\*, __Nhi Nguyen__, Haoran Lyu, Benjamin 
 Christensen, Josue Ortega Caro, Antonio H. O. Fonseca, Emanuele Zappala, Maryam 
 Bagherian, Christopher Averill, Chadi G. Abdallah, Rex Ying, Maria Brbic, Rahul 
 Madhav Dhodapkar, David van Dijk 
--->
 
 ## Education
 
