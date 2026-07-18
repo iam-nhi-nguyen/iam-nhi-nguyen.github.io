@@ -43,11 +43,8 @@ Zhang, Michael Perlmutter, Ian Adelstein, Smita Krishnaswamy
 _Preprint._ Work by Lucius EJ Bynum\*, Aahlad Manas Puli\*, Diego Herrero-Quevedo\*,
 __Nhi Nguyen__\*, Carlos Fernandez-Granda, Kyunghyun Cho, Rajesh Ranganath
 
-* [FIMP: Foundation Model-Informed Message Passing for Graph Neural Networks](https://arxiv.org/abs/2210.09475).
-_Preprint._ Work by Syed Asad Rizvi\*, __Nhi Nguyen__, Haoran Lyu, Benjamin 
-Christensen, Josue Ortega Caro, Antonio H. O. Fonseca, Emanuele Zappala, Maryam 
-Bagherian, Christopher Averill, Chadi G. Abdallah, Rex Ying, Maria Brbic, Rahul 
-Madhav Dhodapkar, David van Dijk 
+* [AMPNet: Attention as Message Passing for Graph Neural Networks](https://arxiv.org/abs/2210.09475v1).
+_Preprint._ Work by Syed Asad Rizvi\*, __Nhi Nguyen__, Haoran Lyu, Ben Christensen, Josue Ortega Caro, Emanuele Zappala, Maria Brbic, Rahul Madhav Dhodapkar, David van Dijk
 
 ## Education
 
@@ -58,5 +55,6 @@ Madhav Dhodapkar, David van Dijk
 ## Honors & Awards
 * [Gold Reviewer Award at ICML](https://icml.cc/Conferences/2026/ProgramCommittee), 2026
 * [DeepMind Scholarship](https://deepmind.com/education), 2023.
+* [MacCracken Doctoral Fellowship at NYU](https://gsas.nyu.edu/admissions/financial-aid/graduate-school-fellowships-and-assistantships.html?challenge=d06e90d7-4d8f-4b88-9d8c-10b73beb60f1), 2023.
 * [Russell Henry Chittenden Prize](https://news.yale.edu/2023/05/21/eleven-graduating-seniors-honored-top-yale-college-prizes), 2023.
 * [Phi Beta Kappa](https://pbk.yalecollege.yale.edu/junior-inductees#2023-1st), 2022.
