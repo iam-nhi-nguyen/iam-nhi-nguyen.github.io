@@ -22,6 +22,10 @@ graph neural networks on analyzing sequencing data.
 _International Conference on Machine Learning (ICML), 2026._ Work by __Nhi Nguyen__\*, 
 Shauli Ravfogel, Rajesh Ranganath
 
+* [FIMP: Foundation Model-Informed Message Passing for Graph Neural Networks](https://openreview.net/forum?id=fj7sjOwtXc).
+_Transactions on Machine Learning Research (TMLR), 2026._
+Work by Syed Rizvi\*, Nazreen Pallikkavaliyaveetil\*, David Zhang, Zhuoyang Lyu, __Nhi Nguyen__, Harry Lyu, Benjamin Christensen, Josue Caro, Antonio Fonseca, Emanuele Zappala, Maryam Bagherian, Christopher Averill, Chadi Abdallah, Amin Karbasi, Rex Ying, Maria Brbic, Rahul Dhodapkar, David van Dijk
+
 * [Explanations that reveal all through the definition of encoding](https://openreview.net/forum?id=mkw6x0OExg). 
 _Conference on Neural Information Processing Systems (NeurIPS), 2024._ Work by Aahlad 
 Puli\*, __Nhi Nguyen__\*, Rajesh Ranaganth
@@ -42,9 +46,6 @@ Zhang, Michael Perlmutter, Ian Adelstein, Smita Krishnaswamy
 * [Black Box Causal Inference: Effect Estimation via Meta Prediction](https://arxiv.org/abs/2503.05985).
 _Preprint._ Work by Lucius EJ Bynum\*, Aahlad Manas Puli\*, Diego Herrero-Quevedo\*,
 __Nhi Nguyen__\*, Carlos Fernandez-Granda, Kyunghyun Cho, Rajesh Ranganath
-
-* [AMPNet: Attention as Message Passing for Graph Neural Networks](https://arxiv.org/abs/2210.09475v1).
-_Preprint._ Work by Syed Asad Rizvi\*, __Nhi Nguyen__, Haoran Lyu, Ben Christensen, Josue Ortega Caro, Emanuele Zappala, Maria Brbic, Rahul Madhav Dhodapkar, David van Dijk
 
 ## Education
 
