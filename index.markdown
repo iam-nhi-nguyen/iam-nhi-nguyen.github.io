@@ -18,6 +18,10 @@ graph neural networks on analyzing sequencing data.
 
 ## Publications
 
+* [Can LLMs explain themselves truthfully with code?](https://openreview.net/forum?id=jg5HryRQQg).
+_Conference on Neural Information Processing Systems (NeurIPS), 2026._ Work by __Nhi Nguyen__\*, 
+Shauli Ravfogel, Rajesh Ranganath
+
 * [What LLMs explain is not what they believe: Evaluating explanation sufficiency under models' own input beliefs](https://openreview.net/forum?id=Z5BE8RFKZk).
 _International Conference on Machine Learning (ICML), 2026._ Work by __Nhi Nguyen__\*, 
 Shauli Ravfogel, Rajesh Ranganath
