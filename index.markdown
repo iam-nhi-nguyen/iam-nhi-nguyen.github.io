@@ -5,7 +5,7 @@ layout: default
 
 ## About Me
 
-Hi! I'm a 3rd year PhD candidate in Computer Science at NYU Courant Institute of 
+Hi! I'm a 4th year PhD candidate in Computer Science at NYU Courant Institute of 
 Mathematical Sciences, working on explainable machine learning and evaluating AI 
 agents, advised by Professor [Rajesh Ranganath](https://rajesh-lab.github.io/). 
 
